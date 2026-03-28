@@ -20,8 +20,3 @@ A lightweight, foundational RESTful API built to handle core CRUD (Create, Read,
 ### Prerequisites
 * [.NET 8 SDK](https://dotnet.microsoft.com/download)
 * EF Core CLI Tools (`dotnet tool install --global dotnet-ef`)
-
-### Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone <your-github-repo-url>
